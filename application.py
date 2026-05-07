@@ -4,7 +4,7 @@
 import streamlit as st
 import numpy as np
 import pickle
-import shap
+
 import matplotlib.pyplot as plt
 
 # =========================
